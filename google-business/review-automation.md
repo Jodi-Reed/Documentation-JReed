@@ -27,7 +27,7 @@ Google's local ranking algorithm considers reviews as part of your business's **
 5. **Better insights** — reviews tell you what customers love and where you can improve
 
 {% hint style="warning" %}
-**Non-obvious insight:** Google reviews do not just help you rank — they help you convert. A business with 50 or more recent, detailed reviews will almost always outperform one with 5 to 10 generic ones, even if both appear at the same position in search results. Recency and detail matter as much as quantity.
+**Non-obvious insight:** Google reviews do not just help you rank, they help you convert. A business with 50 or more recent, detailed reviews will almost always outperform one with 5 to 10 generic ones, even if both appear at the same position in search results. Recency and detail matter as much as quantity.
 {% endhint %}
 
 ---
