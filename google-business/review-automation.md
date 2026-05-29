@@ -16,7 +16,7 @@ The challenge is that most satisfied customers do not leave reviews on their own
 | **68%** of customers will leave a review when asked directly | Most happy customers need a prompt — they will not do it unprompted |
 | **25%** increase in click-through rate moving from 3 to 5 stars | A higher rating drives measurably more traffic from search results |
 
-Google's local ranking algorithm considers reviews as part of your business's **prominence** — one of three factors that determine where you appear in Maps and Search. Businesses with more recent, detailed reviews consistently outrank those with fewer or older reviews, even when everything else is equal.
+Google's local ranking algorithm considers reviews as part of your business's **prominence**, one of three factors that determine where you appear in Maps and Search. Businesses with more recent, detailed reviews consistently outrank those with fewer or older reviews, even when everything else is equal.
 
 **Reviews drive growth through five mechanisms:**
 
