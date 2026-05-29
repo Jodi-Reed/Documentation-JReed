@@ -91,7 +91,7 @@ Responding to every review — positive or negative — reinforces trust and is 
 | Automated SMS workflow | ✅ Every time | ✅ Within 2 hours | ✅ None |
 
 {% hint style="success" %}
-**Ready to start collecting reviews automatically?** Loud and Found AI sets up your complete review request workflow including the SMS sequence, direct Google link, and follow-up timing — all done for you. Contact us at [support@loudandfoundai.com](mailto:support@loudandfoundai.com) to get started.
+**Ready to start collecting reviews automatically?** Loud and Found AI sets up your complete review request workflow including the SMS sequence, direct Google link, and follow-up timing, all done for you. Contact us at [support@loudandfoundai.com](mailto:support@loudandfoundai.com) to get started.
 {% endhint %}
 
 ---
