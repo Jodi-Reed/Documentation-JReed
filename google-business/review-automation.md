@@ -1,6 +1,6 @@
 # How Automated Google Review Requests Help Small Businesses Grow
 
-> **More reviews mean higher rankings, more trust, and more customers — and automation makes the ask easy and consistent.**
+> **More reviews mean higher rankings, more trust, and more customers. Automation makes the ask easy and consistent.**
 
 Google reviews are one of the highest-return activities a small business can invest in. They improve your local search ranking, build trust with potential customers before they ever contact you, and influence the decision to choose your business over a competitor.
 
